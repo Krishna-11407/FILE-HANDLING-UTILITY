@@ -40,8 +40,18 @@ One of the challenges I faced during development was ensuring proper file path h
 - **References**: Google, Stack Overflow, Java Documentation
 - **Version Control**: Git and GitHub
 
-## Getting Started
-
 ### Prerequisites
 - Java Development Kit (JDK) installed
 - Basic understanding of command line operations
+
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/7a42b78f-69a2-4c43-9352-9e9335abdcd4)
+
+![Image](https://github.com/user-attachments/assets/e5ffea4f-420f-4f21-878c-01ca03aae97d)
+
+![Image](https://github.com/user-attachments/assets/b664dccb-e0a4-4711-ae7b-a04fc1ec220e)
+
+![Image](https://github.com/user-attachments/assets/a09a0f13-2050-4599-a5f1-9be512685bc0)
+
+![Image](https://github.com/user-attachments/assets/af8cc83c-b3ac-4024-8fb9-9e6377465add)
