@@ -14,7 +14,7 @@
 
 ## Project Description
 
-As a developer, I created this File Management System to provide users with a powerful yet intuitive interface for handling their files. This Java-based application showcases my ability to implement effective file handling operations while maintaining a user-friendly command-line interface.
+I created this File Management System to provide users with a powerful yet intuitive interface for handling their files. This Java-based application showcases my ability to implement effective file handling operations while maintaining a user-friendly command-line interface.
 
 I designed this system with the primary goal of making file operations accessible and efficient. The application allows users to perform essential file operations including creation, reading, updating, and deletion of files. One of the key features I implemented is the flexibility in file creation - users can create files either in the current directory or specify a custom location, with the system automatically handling directory creation if needed.
 
